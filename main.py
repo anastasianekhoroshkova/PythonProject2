@@ -25,6 +25,5 @@ def main():
     while not stack.is_empty():
         print(stack.pop())
 
-
 if __name__ == "__main__":
     main()
